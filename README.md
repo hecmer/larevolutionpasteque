@@ -1,4 +1,4 @@
-# La Révolution Pastèque
+# La Révolution Pastèque :watermelon:
 ## Le GIT de la pastèque
 Vous trouverez ici des outils que nous avons créés pour répondre aux questions que nous posons ou que vous nous posez au sujet de l'indépendance financière. Par exemple :
 - Combien de temps doit-on épargner pour être indépendant financièrement ?
