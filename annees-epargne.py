@@ -38,5 +38,3 @@ ax = resultats_complets.plot.bar(x='Taux d\'épargne', y='Nombre de mois', color
 ax.set_facecolor('xkcd:white')
 ax.grid(color='xkcd:light grey')
 ;
-
-    #print(str(round(taux_epargne*100)) + '% = ' + str(mois) + ' mois, soit ' + str(round(mois/12,1)) + ' ans')
