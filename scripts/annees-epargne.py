@@ -1,3 +1,10 @@
+'''
+Ce script permet de calculer le nombre de mois et d'années pendant lesquelles nous devons épargner pour atteindre 
+l'indépendance financière, en respectant la règle des 4%, qui stipule que nous devons épargner un montant suffisant
+pour n'avoir à retirer que 4% de nos économies tous les ans pour subvenir à nos besoins.
+Les résultats sont présentés et expliqués dans notre article : 
+http://larevolutionpasteque.com/2018/08/19/combien-dannees-economiser-pour-atteindre-lindependance-financiere/
+'''
 #***************************** Calcul du nombre d'année d'épargne pour atteindre le montant permettant de soutenir le TRSM *****************************
 
 #importement des librairies nécessaires
