@@ -5,7 +5,7 @@ pour n'avoir à retirer que 4% de nos économies tous les ans pour subvenir à n
 Les résultats sont présentés et expliqués dans notre article : 
 http://larevolutionpasteque.com/2018/08/19/combien-dannees-economiser-pour-atteindre-lindependance-financiere/
 '''
-#***************************** Calcul du nombre d'année d'épargne pour atteindre le montant permettant de soutenir le TRSM *****************************
+#***************************** Calcul du nombre d'années d'épargne pour atteindre le montant permettant de soutenir le TRSM *****************************
 
 #importement des librairies nécessaires
 import pandas as pd
@@ -22,9 +22,9 @@ TRSM = 0.04
 rendement = 0.05
 resultat = []
 
-#test tous les taux d'épargne
+#teste tous les taux d'épargne
 for taux_epargne in range(1,101) :
-    #réinitialisation des des variables
+    #réinitialisation des variables
     taux_epargne /= 100
     montant_cible = (1-taux_epargne)/((1+TRSM)**(1/12)-1)
     mois = 0
@@ -36,7 +36,7 @@ for taux_epargne in range(1,101) :
     #ajoute les résultats dans un array avec le bon format
     resultat.append([str(round(taux_epargne*100))+'%',mois])
 
-#aggrégation des résults
+#aggrégation des résultats
 resultats_complets = pd.DataFrame(resultat,columns=['Taux d\'épargne','Nombre de mois'])
 print(resultats_complets)
 
