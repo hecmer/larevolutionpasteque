@@ -1,6 +1,6 @@
 '''
 Le but de ce script est de mettre en évidence les bénéfices liés à la diversification. A partir d'une liste d'entreprises
-(dans notre cas, 50 entreprises du S&P500 prises au hasard), nous constitutons des portefeuilles avec [2..50] instruments,
+(dans notre cas, 50 entreprises du S&P500 prises au hasard), nous constituons des portefeuilles avec [2..50] instruments,
 et observons leur performance (rendement et volatilité). Les résultats sont ensuite consolidés afin de déterminer quel
 est le nombre d'instruments optimal.
 Les résultats sont présentés et expliqués dans notre article :
