@@ -5,7 +5,7 @@ Vous trouverez ici des outils que nous avons créés pour répondre aux question
 - Quels sont les bénéfices de la diversification ?
 - etc.
 
-Nous expliquons le contexte, le raisonement et les conclusions de ces calculs sur le site de La Révolution Pastèque : http://larevolutionpasteque.com/
+Nous expliquons le contexte, le raisonnement et les conclusions de ces calculs sur le site de La Révolution Pastèque : http://larevolutionpasteque.com/
 
 ## Quelques mots sur La Révolution Pastèque
 La Révolution Pastèque est une quête de l'indépendance financière. Nous souhaitons nous affranchir des contraintes financières qui nous lient (loyers, dépenses en nouritures, etc.) afin d'être plus libres, et de pouvoir nous adonner à des activités sans nous préoccuper de leurs aspects financiers ou rémunérateurs.
