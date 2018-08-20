@@ -5,7 +5,6 @@ pour n'avoir à retirer que 4% de nos économies tous les ans pour subvenir à n
 Les résultats sont présentés et expliqués dans notre article : 
 http://larevolutionpasteque.com/2018/08/19/combien-dannees-economiser-pour-atteindre-lindependance-financiere/
 '''
-#***************************** Calcul du nombre d'années d'épargne pour atteindre le montant permettant de soutenir le TRSM *****************************
 
 #importement des librairies nécessaires
 import pandas as pd
